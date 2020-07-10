@@ -1,8 +1,5 @@
 ### Hi, I'm Vijay Tulluri 👋
 
-<!--
-**tullurivijay/tullurivijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am currently working as a Senior Data Analyst at capital one helping them building ML sytems for anti money laundeirng and fraud prevention in banking services. I also a passionate Data Scientist, Software Engineer who thrives to learn as much as I can to build real world AI systems and help open data science community.
 
 - 🔭 I’m currently working on Ml, DL and writing blog
