@@ -11,4 +11,4 @@ I am currently working as a Senior Data Analyst at capital one helping them buil
 - 😄 Pronouns: VJ
 - ⚡ Fun fact: I am not using the physical keyboard anymore
 
-[My Portfolio](https://vijaytulluri.com/)      [LinkedIn](https://www.linkedin.com/in/vijaytulluri/)
+[MyPortfolio](https://vijaytulluri.com/)      [LinkedIn](https://www.linkedin.com/in/vijaytulluri/)
