@@ -12,6 +12,3 @@ I am currently working as a Senior Data Analyst at capital one helping them buil
 - ⚡ Fun fact: I am not using the physical keyboard anymore
 
 [MyPortfolio](https://vijaytulluri.com/)      [LinkedIn](https://www.linkedin.com/in/vijaytulluri/) 
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="vijaytulluri"><a class="LI-simple-link" href='https://www.linkedin.com/in/vijaytulluri?trk=profile-badge'>Vijay Tulluri</a></div>
