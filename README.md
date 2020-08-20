@@ -11,4 +11,4 @@ I am currently working as a SDA / SDE at capital one helping them building data 
 - 😄 Pronouns: VJ
 - ⚡ Fun fact: I am currently reading a book (How to fail atmost everything but still win BIG)
 
-[[LinkedIn](https://www.linkedin.com/in/vijaytulluri/) 
+[LinkedIn](https://www.linkedin.com/in/vijaytulluri/) 
