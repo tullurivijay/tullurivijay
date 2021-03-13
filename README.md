@@ -10,5 +10,6 @@ I am currently working as a SDA / SDE at capital one helping them building data 
 - 📫 How to reach me: https://www.linkedin.com/in/vijaytulluri/
 - 😄 Pronouns: VJ
 - ⚡ Fun fact: I am currently reading a book (How to fail atmost everything but still win BIG)
+- What I believe : One of the great challenges of this world is knowing enough about a subject to think you are right but not enough of the subject to know you are wrong. -  Neil DeGrasse Tyson
 
 [LinkedIn](https://www.linkedin.com/in/vijaytulluri/) 
