@@ -1,4 +1,4 @@
-### Hi, I'm Vijay Tulluri 👋
+### Hi, I'm Vijay 👋
 
 I am currently working as a software engineer at apple. I am also a passionate Data Scientist who thrives to learn as much as I can to build real world AI systems and help open data science community.
 
