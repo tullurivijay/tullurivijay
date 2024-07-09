@@ -1,8 +1,8 @@
 ### Hi, I'm Vijay 👋
 
-I am currently working as a software engineer at Nike. I am also a passionate Data Scientist who thrives to learn as much as I can to build real world AI systems and help open data science community.
+I am currently working as a Senior Software Engineer - Data & ML at Nike. I am also a passionate Data Scientist who thrives to learn as much as I can to build real world AI systems and help open data science community.
 
-- 🔭 I’m currently working on Machine Learning, Deep Learning, MLOPS for Finance and Ecommerce Domains and teaching others
+- 🔭 I’m currently working on Machine Learning, Deep Learning, MLOPS for Sustainability Engineering
 - 🌱 I’m currently researching on Time Series Modelling, Computer Vision and NLP in Finance
 - 👯 I’m looking to collaborate on Data Science and Economics content
 - 🤔 I’m looking for help with Macro and Micro Economics, Algorithmic Trading
